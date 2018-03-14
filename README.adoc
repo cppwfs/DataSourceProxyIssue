@@ -1,0 +1,12 @@
+= Introduction
+
+Shows that when using spring-cloud-starter-config with a datasource that proxy bean is also created.
+
+== Build
+
+```
+mvn clean package
+```
+
+== Execute
+java -jar twods-0.0.1-SNAPSHOT.jar
